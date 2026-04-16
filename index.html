@@ -12,9 +12,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700;900&display=swap" rel="stylesheet">
 
     <style>
-        /* Import the font in CSS if not in head */
+       
     @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700;900&display=swap');
 
+
+    
+@media (max-width: 768px) {
+    .leaflet-bottom.leaflet-right {
+        margin-bottom: 25px; /* کەمێک بەرزی دەکاتەوە بۆ ئەوەی نەچێتە سەر نیشانەی لیفلێت */
+        margin-right: 10px;  /* کەمێک لە لێوارەکە دووری دەخاتەوە */
+    }
+    
+    .leaflet-control-layers {
+        margin-bottom: 20px !important; /* دڵنیایی لەوەی شوێنەکەی جێگیر دەبێت */
+    }
+}
+        
     .header-card {
         /* Glassmorphism background */
         background: rgba(255, 255, 255, 0.95);
