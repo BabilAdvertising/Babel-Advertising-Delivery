@@ -1,12 +1,12 @@
-# Babel Advertising Delivery Map
+# نەخشەی گەیاندنی چاپەمەنی بابل
 
-An interactive web-based map designed for **Babel Advertising** to help customers calculate delivery prices.
+نەخشەیەکی کارلێککاری سەر وێب کە بۆ **چاپەمەنی بابل** دروستکراوە بۆ یارمەتیدانی کڕیاران لە زانینی نرخی گەیاندنی کارەکانیان.
 
-## Features
-* **Real-time Pricing:** View delivery costs for various locations.
-* **Smart Routing:** Calculates distance and estimated driving time using OSRM.
-* **Interactive UI:** Smooth map interface powered by Leaflet.js.
-* **Bilingual Support:** Designed with a RTL (Right-to-Left) layout for Kurdish/Arabic users.
+## تایبەتمەندییەکان
+* **نرخی ڕاستەوخۆ:** بینینی تێچووی گەیاندن بۆ شوێنە جیاوازەکان.
+* **دیاریکردنی ڕێگا:** ئەژمارکردنی دووری و کاتی خەمڵێنراوی لێخوڕین بەپێی OSRM.
+* **ڕووکارێکی ئاسان:** بەکارهێنانی نەخشەی Leaflet.js بۆ جوڵەیەکی ئاسان لەسەر مۆبایل و کۆمپیوتەر.
+* **پشتیوانی زمان:** دیزاین کراوە بە شێوازی RTL (لە ڕاستەوە بۆ چەپ) بۆ بەکارهێنەرانی کوردی.
 
-## How to use
-Simply click on any delivery point (badge) to see the delivery price, distance, and estimated time from our shop.
+## چۆنیەتی بەکارهێنان
+تەنها کلیک لەسەر هەر ناوچەیەک بکە (ئەو باجانەی نرخەکەی لەسەرە) بۆ ئەوەی نرخی گەیاندن، دووری بە کیلۆمەتر، و کاتی خەمڵێنراو لە دوکانەکەوە بۆ ئەو شوێنە ببینی.
