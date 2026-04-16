@@ -223,7 +223,8 @@
             "سەتەلایت (Satellite)": satelliteLayer,
             "تاریک (Dark)": darkLayer
         };
-        L.control.layers(baseMaps).addTo(map);
+        // L.control.layers(baseMaps).addTo(map);
+        L.control.layers(baseMaps, null, { position: 'bottomright' }).addTo(map);
 
         // --- 3. RENDERING ---
         var activeLine = null;
